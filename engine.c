@@ -7,6 +7,7 @@ void cursSetp()
 	curs_set( 0 );
 }
 
+/* what is going on with this, doesn't trigger every key hit */
 void ranSeed()
 {
 	do
